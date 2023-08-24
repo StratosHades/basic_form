@@ -1,0 +1,39 @@
+body{
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/811/965/desktop-wallpaper-3840x2160-doodling-amoled-doodle.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form_main{
+    width: 500px; 
+    background-color: azure;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    
+}
+.lab{
+    width: 97%;
+    height: 20px;
+    
+}
+.labmin{
+    width: 47.5%;
+    height: 20px;
+}
+.form_main_division{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    color:#FF8700;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.but{
+    background-color: #FF8700;
+    color: white;
+    height: 20px;
+}
